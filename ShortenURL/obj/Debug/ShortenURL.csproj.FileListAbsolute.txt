@@ -1,0 +1,48 @@
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\ShortenURL.exe.config
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\ShortenURL.exe
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\ShortenURL.pdb
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Auth.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Core.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Google.Apis.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Google.Apis.PlatformServices.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Urlshortener.v1.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Newtonsoft.Json.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\System.Net.Http.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Google.Apis.xml
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Auth.xml
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Core.xml
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Urlshortener.v1.xml
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\bin\Debug\Newtonsoft.Json.xml
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\obj\Debug\ShortenURL.csproj.CoreCompileInputs.cache
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\obj\Debug\ShortenURL.exe
+F:\OneDrive - Hanoi University of Science and Technology\IT\CSharp\ShortenURL\ShortenURL\obj\Debug\ShortenURL.pdb
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\ShortenURL.exe.config
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\ShortenURL.exe
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\ShortenURL.pdb
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Auth.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Core.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Google.Apis.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Google.Apis.PlatformServices.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Urlshortener.v1.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Newtonsoft.Json.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\System.Net.Http.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Google.Apis.xml
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Auth.xml
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Core.xml
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Google.Apis.Urlshortener.v1.xml
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\bin\Debug\Newtonsoft.Json.xml
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\obj\Debug\ShortenURL.csprojResolveAssemblyReference.cache
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\obj\Debug\ShortenURL.csproj.CoreCompileInputs.cache
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\obj\Debug\ShortenURL.csproj.CopyComplete
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\obj\Debug\ShortenURL.exe
+F:\Google Drive\IT\C#\ShortenURL\ShortenURL\obj\Debug\ShortenURL.pdb
